@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi GeekRandy here 👋
 
 <!--
 **GeekRandy/GeekRandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on alibaba
+- 🌱 I’m currently learing Java
+- 🤔 I’m thinking...
+- 👨 Pronouns: he/him
 
 ### Code Stats
 
