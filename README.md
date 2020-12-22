@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on alibaba
+- ⚒️ Java/Android, a little bit Python/JavaScript
 - 🌱 I’m currently learing Java
 - 🤔 I’m thinking...
 - 👨 Pronouns: he/him
