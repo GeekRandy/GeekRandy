@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learing Java
 - 🤔 I’m thinking...
 - 👨 Pronouns: he/him
-- 📫 ![博客园](https://www.cnblogs.com/CoolRandy/)
+- 📫 some blogs...
+  ![博客园](https://www.cnblogs.com/CoolRandy/)
 
 ### Code Stats
 
